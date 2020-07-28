@@ -61,6 +61,9 @@ export default function Footer() {
         </div>
         <div className="columns">
           <div className="column">
+            <p className="has-text-centered">
+              Built with all the love in the world by <a href="https://twitter.com/carllerche" target="_blank" rel="noopener">@carllerche</a> with the help of <a href="https://github.com/tokio-rs/tokio/graphs/contributors">our contributors</a>.
+            </p>
             <p className="has-text-centered">Deployed with <a href="https://netlify.com">Netlify</a>.</p>
           </div>
         </div>
