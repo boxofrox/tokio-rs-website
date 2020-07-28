@@ -59,6 +59,11 @@ export default function Footer() {
             </div>
           </div>
         </div>
+        <div className="columns">
+          <div className="column">
+            <p className="has-text-centered">Deployed with <a href="https://netlify.com">Netlify</a>.</p>
+          </div>
+        </div>
       </div>
     </footer>
   );
